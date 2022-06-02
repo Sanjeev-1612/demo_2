@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[trying to start browser and ready]]>
+    </line>
+    <line>
+      <![CDATA[application and browser is running]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is going to end]]>
+    </line>
+    <line>
+      <![CDATA[completed successfully...Report generated]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58507" started-at="2022-06-02T11:06:45 IST" finished-at="2022-06-02T11:07:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58507" started-at="2022-06-02T11:06:45 IST" finished-at="2022-06-02T11:07:43 IST">
+      <class name="com.runner.TestCase">
+        <test-method status="PASS" signature="setUpSuit()[pri:0, instance:com.runner.TestCase@9a7504c]" name="setUpSuit" is-config="true" duration-ms="1418" started-at="2022-06-02T11:06:43 IST" finished-at="2022-06-02T11:06:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.runner.TestCase@9a7504c]" name="setup" is-config="true" duration-ms="7958" started-at="2022-06-02T11:06:45 IST" finished-at="2022-06-02T11:06:53 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[trying to start browser and ready]]>
+            </line>
+            <line>
+              <![CDATA[application and browser is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="page1()[pri:1, instance:com.runner.TestCase@9a7504c]" name="page1" duration-ms="5011" started-at="2022-06-02T11:06:53 IST" finished-at="2022-06-02T11:06:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page1 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="1381" started-at="2022-06-02T11:06:58 IST" finished-at="2022-06-02T11:06:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page1 status=SUCCESS method=TestCase.page1()[pri:1, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page2()[pri:2, instance:com.runner.TestCase@9a7504c]" name="page2" duration-ms="158" started-at="2022-06-02T11:06:59 IST" finished-at="2022-06-02T11:06:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page2 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="594" started-at="2022-06-02T11:06:59 IST" finished-at="2022-06-02T11:07:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page2 status=SUCCESS method=TestCase.page2()[pri:2, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page3()[pri:3, instance:com.runner.TestCase@9a7504c]" name="page3" duration-ms="4417" started-at="2022-06-02T11:07:00 IST" finished-at="2022-06-02T11:07:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page3 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="1470" started-at="2022-06-02T11:07:04 IST" finished-at="2022-06-02T11:07:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page3 status=SUCCESS method=TestCase.page3()[pri:3, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page4()[pri:4, instance:com.runner.TestCase@9a7504c]" name="page4" duration-ms="3744" started-at="2022-06-02T11:07:06 IST" finished-at="2022-06-02T11:07:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page4 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="480" started-at="2022-06-02T11:07:10 IST" finished-at="2022-06-02T11:07:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page4 status=SUCCESS method=TestCase.page4()[pri:4, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page5()[pri:5, instance:com.runner.TestCase@9a7504c]" name="page5" duration-ms="3840" started-at="2022-06-02T11:07:10 IST" finished-at="2022-06-02T11:07:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page5 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="595" started-at="2022-06-02T11:07:14 IST" finished-at="2022-06-02T11:07:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page5 status=SUCCESS method=TestCase.page5()[pri:5, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page6()[pri:6, instance:com.runner.TestCase@9a7504c]" name="page6" duration-ms="2878" started-at="2022-06-02T11:07:14 IST" finished-at="2022-06-02T11:07:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page6 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="646" started-at="2022-06-02T11:07:17 IST" finished-at="2022-06-02T11:07:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page6 status=SUCCESS method=TestCase.page6()[pri:6, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page7()[pri:7, instance:com.runner.TestCase@9a7504c]" name="page7" duration-ms="3160" started-at="2022-06-02T11:07:18 IST" finished-at="2022-06-02T11:07:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page7 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="747" started-at="2022-06-02T11:07:21 IST" finished-at="2022-06-02T11:07:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page7 status=SUCCESS method=TestCase.page7()[pri:7, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page8()[pri:8, instance:com.runner.TestCase@9a7504c]" name="page8" duration-ms="4115" started-at="2022-06-02T11:07:22 IST" finished-at="2022-06-02T11:07:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page8 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="809" started-at="2022-06-02T11:07:26 IST" finished-at="2022-06-02T11:07:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page8 status=SUCCESS method=TestCase.page8()[pri:8, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page9()[pri:9, instance:com.runner.TestCase@9a7504c]" name="page9" duration-ms="6961" started-at="2022-06-02T11:07:27 IST" finished-at="2022-06-02T11:07:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page9 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="437" started-at="2022-06-02T11:07:34 IST" finished-at="2022-06-02T11:07:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page9 status=SUCCESS method=TestCase.page9()[pri:9, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="page10()[pri:10, instance:com.runner.TestCase@9a7504c]" name="page10" duration-ms="5261" started-at="2022-06-02T11:07:34 IST" finished-at="2022-06-02T11:07:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page10 -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.runner.TestCase@9a7504c]" name="tearDownMethod" is-config="true" duration-ms="787" started-at="2022-06-02T11:07:39 IST" finished-at="2022-06-02T11:07:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page10 status=SUCCESS method=TestCase.page10()[pri:10, instance:com.runner.TestCase@9a7504c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is going to end]]>
+            </line>
+            <line>
+              <![CDATA[completed successfully...Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.runner.TestCase@9a7504c]" name="teardown" is-config="true" duration-ms="2915" started-at="2022-06-02T11:07:40 IST" finished-at="2022-06-02T11:07:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.runner.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

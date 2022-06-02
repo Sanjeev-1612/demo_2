@@ -1,0 +1,44 @@
+[INFO ] 2022-05-17 18:34:56.711 [main] Log4j - navigate to website and closing popup
+[INFO ] 2022-05-17 18:34:56.716 [main] Log4j - success
+[INFO ] 2022-05-17 18:34:56.717 [main] Log4j - navigate to search page and Verifytext 'Car' in the search item
+[INFO ] 2022-05-17 18:34:56.717 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:34:56.717 [main] Log4j - navigate to AboutUs page and verify 'Corporate Mission' text test
+[INFO ] 2022-05-17 18:34:56.717 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:34:56.717 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:37:52.472 [main] Log4j - navigate to website and closing popup
+[INFO ] 2022-05-17 18:37:52.479 [main] Log4j - success
+[INFO ] 2022-05-17 18:37:52.479 [main] Log4j - navigate to search page and Verifytext 'Car' in the search item
+[INFO ] 2022-05-17 18:37:52.480 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:37:52.480 [main] Log4j - navigate to AboutUs page and verify 'Corporate Mission' text test
+[INFO ] 2022-05-17 18:37:52.480 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:37:52.480 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:54:02.086 [main] Log4j - navigate to website and closing popup
+[INFO ] 2022-05-17 18:54:02.110 [main] Log4j - success
+[INFO ] 2022-05-17 18:54:02.110 [main] Log4j - navigate to search page and Verifytext 'Car' in the search item
+[INFO ] 2022-05-17 18:54:02.110 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:54:02.111 [main] Log4j - navigate to AboutUs page and verify 'Corporate Mission' text test
+[INFO ] 2022-05-17 18:54:02.111 [main] Log4j - text verified
+[INFO ] 2022-05-17 18:54:02.111 [main] Log4j - text verified
+[INFO ] 2022-05-17 20:37:50.994 [main] Log4j - navigate to website and closing popup
+[INFO ] 2022-05-17 20:37:51.118 [main] Log4j - success
+[INFO ] 2022-05-17 20:37:51.118 [main] Log4j - navigate to search page and Verifytext 'Car' in the search item
+[INFO ] 2022-05-17 20:37:51.119 [main] Log4j - text verified
+[INFO ] 2022-05-17 20:37:51.119 [main] Log4j - navigate to AboutUs page and verify 'Corporate Mission' text test
+[INFO ] 2022-05-17 20:37:51.120 [main] Log4j - text verified
+[INFO ] 2022-05-17 20:37:51.120 [main] Log4j - text verified
+[INFO ] 2022-05-17 20:53:50.673 [main] Log4j - navigate to website and closing popup
+[INFO ] 2022-05-17 20:53:50.685 [main] Log4j - success
+[INFO ] 2022-05-17 20:53:50.685 [main] Log4j - navigate to search page and Verifytext 'Car' in the search item
+[INFO ] 2022-05-17 20:53:50.686 [main] Log4j - text verified
+[INFO ] 2022-05-17 20:53:50.686 [main] Log4j - navigate to AboutUs page and verify 'Corporate Mission' text test
+[INFO ] 2022-05-17 20:53:50.686 [main] Log4j - text verified
+[INFO ] 2022-05-17 20:53:50.686 [main] Log4j - text verified
+[INFO ] 2022-05-17 20:58:54.373 [main] Log4j - success
+[INFO ] 2022-05-17 21:06:41.253 [main] Log4j - success
+[INFO ] 2022-06-02 10:16:41.278 [main] Log4j - success
+[INFO ] 2022-06-02 10:27:04.273 [main] Log4j - success
+[INFO ] 2022-06-02 10:37:15.691 [main] Log4j - success
+[INFO ] 2022-06-02 10:46:36.160 [main] Log4j - success
+[INFO ] 2022-06-02 11:02:19.989 [main] Log4j - success
+[INFO ] 2022-06-02 11:04:34.403 [main] Log4j - success
+[INFO ] 2022-06-02 11:07:39.975 [main] Log4j - success
